@@ -7,3 +7,4 @@ commit3333
 commit4444
 b-commit 1111
 b-commit2222
+update config url
