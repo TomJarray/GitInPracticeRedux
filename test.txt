@@ -2,7 +2,6 @@ This is a test file.
 Please note:
 This is a test file.
 Add new date--2015-10-05
-commit1111
 commit2222
 commit3333
 commit4444
